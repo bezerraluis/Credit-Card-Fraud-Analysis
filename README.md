@@ -7,5 +7,9 @@ Data-Science-Projects
 ![](https://github.com/bezerraluis/Luis_Paulo_Portf-lio/blob/master/images/grafico.png)
 
 1. Realizar análise exploratória dos dados
+
 2. Fazer tratamento e veriicar quais features serão necessárias 
-3.Criar um algoritmo que faça uma predição probabilistica com os dados de fraude de cartão de crédito e retorne os dados que possuem uma chance de 50% à 70% de ser fraude para poder ser verificado por um analista.
+
+3.Criar um algoritmo que faça uma predição probabilistica com os dados de fraude de cartão de crédito e retorne os dados que possuem uma 
+
+chance de 50% à 70% de ser fraude para poder ser verificado por um analista.
