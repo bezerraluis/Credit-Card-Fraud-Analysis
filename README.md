@@ -24,4 +24,5 @@ chance de 50% à 70% de ser fraude para poder ser verificado por um analista.
 
 
 # [Projeto 2 :  Transformação de Fotos Preto e Branco em Coloridas](https://github.com/bezerraluis/Luis_Paulo_Portf/blob/master/Post_no_Blog.ipynb)
-Projeto 2 :  Transformação de Fotos Preto e Branco em Coloridas
+
+ Projeto 2 :  Transformação de Foto Preto e Branco em Colorida
