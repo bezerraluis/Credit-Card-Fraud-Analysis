@@ -13,3 +13,9 @@ Data-Science-Projects
 3.Criar um algoritmo que faça uma predição probabilistica com os dados de fraude de cartão de crédito e retorne os dados que possuem uma 
 
 chance de 50% à 70% de ser fraude para poder ser verificado por um analista.
+
+
+
+
+[Projeto 2 :  Transformação de Fotos Preto e Branco em Coloridas](https://github.com/bezerraluis/Luis_Paulo_Portf/blob/master/Post_no_Blog.ipynb)
+Projeto 2 :  Transformação de Fotos Preto e Branco em Coloridas
