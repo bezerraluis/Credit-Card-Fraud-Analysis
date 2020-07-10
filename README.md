@@ -3,6 +3,9 @@
 
 ![grafico,png](https://github.com/bezerraluis/Luis_Paulo_Portf-lio/blob/master/images/grafico.png)
 
+header:
+  image: /Luis-Paulo-Bezerra/images/grafico.png.
+
 
 1. Realizar análise exploratória dos dados
 
