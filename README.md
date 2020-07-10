@@ -4,7 +4,7 @@ Data-Science-Projects
 
 # [Projeto 1 :  Análise de fraudes de cartão de crédito](https://github.com/bezerraluis/Luis_Paulo_Portf-lio/blob/master/Projeto_A%C3%A7%C3%A3o_humana_em_Fraude_de_cart%C3%A3o_de_cr%C3%A9dito.ipynb)
 
-![](https://github.com/bezerraluis/Luis_Paulo_Portf-lio/blob/master/images/grafico.png)
+![Grafico](https://github.com/bezerraluis/Luis_Paulo_Portf-lio/blob/master/images/grafico.png)
 
 1. Realizar análise exploratória dos dados
 
