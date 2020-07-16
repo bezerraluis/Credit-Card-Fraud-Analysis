@@ -10,13 +10,12 @@ header:
 1. Realizar análise exploratória dos dados
 
 
-2. Fazer tratamento e veriicar quais features serão necessárias 
+2. Fazer tratamento e verificar quais features serão necessárias 
 
 
-3.Criar um algoritmo que faça uma predição probabilistica com os dados de fraude de cartão de crédito e retorne os dados que possuem uma 
+3.Criar um algoritmo que faça uma predição probabilistica com os dados de fraude de cartão de crédito e retorne os dados que possuem uma chance de 50% à 70% de ser fraude para 
 
-
-chance de 50% à 70% de ser fraude para poder ser verificado por um analista.
+poder ser verificado por um analista.
 
  
  
