@@ -31,5 +31,9 @@ poder ser verificado por um analista.
  ## Transformação de Foto Preto e Branco em Colorida
  
  * Utilizando redes neurais para realizar tranformação de fotos preto e branco para coloridas 
+
+ * Utilizando a biblioteca *********
+ 
+
  
 
