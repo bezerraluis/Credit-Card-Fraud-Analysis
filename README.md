@@ -21,9 +21,7 @@ poder ser verificado por um analista.
  
  
  
- # [Projeto 2 :  Transformação de Fotos Preto e Branco em Coloridas](https://github.com/bezerraluis/Luis_Paulo_Portf/blob/master/Post_no_Blog.ipynb)
-
- ![cidade.jpg](https://github.com/bezerraluis/Luis_Paulo_Portf/blob/master/images/cidade.jpg)
+ # [Projeto 2 :  Transformação de Fotos Preto e Branco em Coloridas](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/Projects/Post_no_Blog.ipynb)
  
  
  
