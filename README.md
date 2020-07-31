@@ -1,7 +1,8 @@
 
 # [Medium:Visite meu blog para ver assuntos sobre Ciência de Dados](https://medium.com/@luispaulobezerra3)
 
-
+https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/medium.JPEG
+![medium,JPEG](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/medium.JPEG)
 
 
 
@@ -28,6 +29,8 @@ poder ser verificado por um analista.
  
  
  # [Projeto 2 :  Transformação de Fotos Preto e Branco em Coloridas](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/Projects/Post_no_Blog.ipynb)
+ 
+ ![cidade,jpg](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/cidade.jpg)
  
  
  
