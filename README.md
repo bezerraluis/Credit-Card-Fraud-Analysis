@@ -1,7 +1,7 @@
 
 # [Medium:Visite meu blog para ver assuntos sobre Ciência de Dados](https://medium.com/@luispaulobezerra3)
 
-https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/medium.JPEG
+
 ![medium,JPEG](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/medium.JPEG)
 
 
