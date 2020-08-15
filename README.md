@@ -7,10 +7,10 @@
 
 
 
-# [Medium:Visite meu blog para ver assuntos sobre Ciência de Dados](https://www.kaggle.com/luispaulobezerra)
+# [Perfil Kaggle](https://www.kaggle.com/luispaulobezerra)
 
 
-![medium,JPEG](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/kaggle.png)
+![Kaggle](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/kaggle.png)
 
 
 
