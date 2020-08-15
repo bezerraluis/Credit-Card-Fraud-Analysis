@@ -27,8 +27,17 @@ poder ser verificado por um analista.
  
  
  
+  # [Projeto 2 :  Previsão do valor da tarifa para corridas de taxi](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/Projects/corrida_taxi.ipynb)
  
- # [Projeto 2 :  Transformação de Fotos Preto e Branco em Coloridas](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/Projects/Post_no_Blog.ipynb)
+ ![taxi](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/taxi.jpg)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ # [Projeto 3 :  Transformação de Fotos Preto e Branco em Coloridas](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/Projects/Post_no_Blog.ipynb)
  
  ![cidade,jpg](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/cidade.jpg)
  
