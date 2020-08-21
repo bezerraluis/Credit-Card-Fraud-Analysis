@@ -1,21 +1,4 @@
 
-# [Medium:Visite meu blog para ver assuntos sobre Ciência de Dados](https://medium.com/@luispaulobezerra3)
-
-
-![medium,JPEG](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/medium.JPEG)
-
-
-
-
-# [Perfil Kaggle](https://www.kaggle.com/luispaulobezerra)
-
-
-![Kaggle](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/kaggle.png)
-
-
-
-
-
 # [Projeto 1 :  Análise de fraudes de cartão de crédito](https://github.com/bezerraluis/Luis_Paulo_Portf-lio/blob/master/Projeto_A%C3%A7%C3%A3o_humana_em_Fraude_de_cart%C3%A3o_de_cr%C3%A9dito.ipynb)
 
 ![credit card](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/credit%20card.jpg)
