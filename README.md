@@ -2,7 +2,7 @@
 
   Prever valores que tenham entre 50 % e 70 % de chance de ser fraude.
 
-# [Project  :  Credit Card Fraud prediction](https://github.com/bezerraluis/Luis_Paulo_Portf-lio/blob/master/Projeto_A%C3%A7%C3%A3o_humana_em_Fraude_de_cart%C3%A3o_de_cr%C3%A9dito.ipynb)
+# [Project  :  Credit Card Fraud prediction](https://github.com/bezerraluis/Credit-Card-Fraud-Analysis/blob/master/Projects/Projeto_A%C3%A7%C3%A3o_humana_em_Fraude_de_cart%C3%A3o_de_cr%C3%A9dito.ipynb)
 
 ![credit card](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/credit%20card.jpg)
 
